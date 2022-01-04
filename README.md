@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Howdy! My name is Jose Sosa.
 
-    I will earn my Bachelor of Science in Electrical Engineering at Texas A&M University on 12/17/2021.
+    I earned a Bachelor of Science in Electrical Engineering at Texas A&M University in the winter of 2021.
     
     I am looking to exand and strengthen my skills in the field of computer science, while sharing a repositoy of my projects.
     
